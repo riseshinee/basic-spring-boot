@@ -34,7 +34,7 @@ public class Today {
         response.setContentType("text/html");
         response.setCharacterEncoding("utf-8");
 
-        //PrintWriter out = response.getWriter();
+        PrintWriter out = response.getWriter();
     }
     
 }
